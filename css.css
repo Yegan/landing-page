@@ -1,0 +1,28 @@
+body{
+  margin-top: 250px;
+  text-align: center;
+}
+
+.basic-webpage{
+  font-weight: 80;
+  font-size: 35px;
+  border: solid 2px;
+  border-radius: 70px;
+}
+
+.skeleton-grid{
+  font-weight: 80;
+  font-size: 35px;
+  border: solid 2px;
+  border-radius: 70px;
+}
+
+.basic-webpage:hover{
+  background-color: grey;
+  color: #fff;
+}
+
+.skeleton-grid:hover{
+  background-color: grey;
+  color: #fff;
+}
